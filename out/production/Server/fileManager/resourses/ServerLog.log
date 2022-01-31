@@ -1,0 +1,403 @@
+2021-10-21 13:34:40 INFO  ServerLogicClass:28 - Connection findPort55670Entry in server
+2021-10-21 13:36:06 INFO  ServerLogicClass:28 - Connection findPort62546Entry in server
+2021-10-21 13:36:42 INFO  ServerLogicClass:28 - Connection findPort51479Entry in server
+2021-10-21 13:37:37 INFO  ServerLogicClass:28 - Connection findPort51487Entry in server
+2021-10-21 13:37:40 INFO  ServerLogicClass:99 - User entered to server: Name123 Port51487
+2021-10-21 13:37:40 INFO  ServerLogicClass:107 - User work with service: 123 Port51487
+2021-10-21 13:38:52 INFO  ServerLogicClass:28 - Connection findPort51496Entry in server
+2021-10-21 13:38:53 WARN  ServerLogicClass:89 - This user cut off connection
+2021-10-21 13:38:53 INFO  ServerLogicClass:28 - Connection findPort51501Entry in server
+2021-10-21 13:38:59 INFO  ServerLogicClass:98 - User entered to server: Name123 Port51501
+2021-10-21 13:38:59 INFO  ServerLogicClass:106 - User work with service: 123 Port51501
+2021-10-21 13:39:00 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port51501
+2021-10-21 13:39:19 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port51501
+2021-10-21 13:39:20 INFO  ServerLogicClass:126 - User requested mystery: 123 Port51501
+2021-10-21 13:39:24 INFO  ServerLogicClass:137 - User wrong answer: 123 Port51501
+2021-10-21 13:40:20 INFO  ServerLogicClass:28 - Connection findPort52902Entry in server
+2021-10-21 13:40:24 INFO  ServerLogicClass:98 - User entered to server: Name123 Port52902
+2021-10-21 13:40:24 INFO  ServerLogicClass:106 - User work with service: 123 Port52902
+2021-10-21 13:40:24 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port52902
+2021-10-21 13:40:26 INFO  ServerLogicClass:121 - User requested online list: 123 Port52902
+2021-10-21 13:40:27 INFO  ServerLogicClass:126 - User requested mystery: 123 Port52902
+2021-10-21 13:40:29 INFO  ServerLogicClass:28 - Connection findPort52905Entry in server
+2021-10-21 13:40:32 INFO  ServerLogicClass:98 - User entered to server: Name1 Port52905
+2021-10-21 13:40:32 INFO  ServerLogicClass:106 - User work with service: 1 Port52905
+2021-10-21 13:40:34 INFO  ServerLogicClass:126 - User requested mystery: 1 Port52905
+2021-10-21 13:40:37 INFO  ServerLogicClass:137 - User wrong answer: 123 Port52902
+2021-10-21 13:40:43 INFO  ServerLogicClass:137 - User wrong answer: 1 Port52905
+2021-10-21 13:43:45 INFO  ServerLogicClass:28 - Connection findPort54824Entry in server
+2021-10-21 13:43:48 INFO  ServerLogicClass:98 - User entered to server: Name123 Port54824
+2021-10-21 13:43:48 INFO  ServerLogicClass:106 - User work with service: 123 Port54824
+2021-10-21 13:43:50 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port54824
+2021-10-21 13:43:53 INFO  ServerLogicClass:28 - Connection findPort61399Entry in server
+2021-10-21 13:43:58 INFO  ServerLogicClass:126 - User requested mystery: 123 Port54824
+2021-10-21 13:44:09 INFO  ServerLogicClass:98 - User entered to server: Name1 Port61399
+2021-10-21 13:44:09 INFO  ServerLogicClass:106 - User work with service: 1 Port61399
+2021-10-21 13:44:10 INFO  ServerLogicClass:126 - User requested mystery: 1 Port61399
+2021-10-21 13:44:11 INFO  ServerLogicClass:137 - User wrong answer: 1 Port61399
+2021-10-21 13:44:12 INFO  ServerLogicClass:126 - User requested mystery: 1 Port61399
+2021-10-21 13:44:13 INFO  ServerLogicClass:137 - User wrong answer: 1 Port61399
+2021-10-21 13:44:13 INFO  ServerLogicClass:143 - User requested statistics list: 1 Port61399
+2021-10-21 13:45:32 INFO  ServerLogicClass:28 - Connection findPort62259Entry in server
+2021-10-21 13:45:39 INFO  ServerLogicClass:98 - User entered to server: Name123 Port62259
+2021-10-21 13:45:39 INFO  ServerLogicClass:106 - User work with service: 123 Port62259
+2021-10-21 13:45:40 INFO  ServerLogicClass:126 - User requested mystery: 123 Port62259
+2021-10-21 13:45:42 INFO  ServerLogicClass:137 - User wrong answer: 123 Port62259
+2021-10-21 13:45:56 INFO  ServerLogicClass:157 - User add mystery: 123 Port62259
+2021-10-21 13:45:58 INFO  ServerLogicClass:126 - User requested mystery: 123 Port62259
+2021-10-21 13:46:01 INFO  ServerLogicClass:133 - User right answer: 123 Port62259
+2021-10-21 13:46:02 INFO  ServerLogicClass:126 - User requested mystery: 123 Port62259
+2021-10-21 13:46:05 INFO  ServerLogicClass:137 - User wrong answer: 123 Port62259
+2021-10-21 13:46:06 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port62259
+2021-10-21 13:46:29 INFO  ServerLogicClass:157 - User add mystery: 123 Port62259
+2021-10-21 13:46:45 INFO  ServerLogicClass:28 - Connection findPort60578Entry in server
+2021-10-21 13:46:50 INFO  ServerLogicClass:98 - User entered to server: Name1 Port60578
+2021-10-21 13:46:50 INFO  ServerLogicClass:106 - User work with service: 1 Port60578
+2021-10-21 13:46:54 INFO  ServerLogicClass:157 - User add mystery: 1 Port60578
+2021-10-21 13:47:00 INFO  ServerLogicClass:126 - User requested mystery: 123 Port62259
+2021-10-21 13:47:04 INFO  ServerLogicClass:133 - User right answer: 123 Port62259
+2021-10-21 13:47:06 INFO  ServerLogicClass:126 - User requested mystery: 123 Port62259
+2021-10-21 13:47:07 INFO  ServerLogicClass:137 - User wrong answer: 123 Port62259
+2021-10-21 13:47:10 INFO  ServerLogicClass:126 - User requested mystery: 123 Port62259
+2021-10-21 13:47:16 INFO  ServerLogicClass:126 - User requested mystery: 1 Port60578
+2021-10-21 13:47:22 INFO  ServerLogicClass:133 - User right answer: 1 Port60578
+2021-10-21 13:47:23 INFO  ServerLogicClass:126 - User requested mystery: 1 Port60578
+2021-10-21 13:47:26 INFO  ServerLogicClass:133 - User right answer: 1 Port60578
+2021-10-21 13:47:30 INFO  ServerLogicClass:126 - User requested mystery: 1 Port60578
+2021-10-21 13:47:31 INFO  ServerLogicClass:133 - User right answer: 1 Port60578
+2021-10-21 13:47:35 INFO  ServerLogicClass:126 - User requested mystery: 1 Port60578
+2021-10-21 13:47:37 INFO  ServerLogicClass:133 - User right answer: 1 Port60578
+2021-10-21 13:47:42 INFO  ServerLogicClass:167 - User exit: 1 Port60578
+2021-10-21 13:47:46 INFO  ServerLogicClass:137 - User wrong answer: 123 Port62259
+2021-10-21 13:47:53 INFO  ServerLogicClass:167 - User exit: 123 Port62259
+2021-10-21 13:51:08 INFO  ServerLogicClass:28 - Connection findPort50354Entry in server
+2021-10-21 13:51:11 INFO  ServerLogicClass:98 - User entered to server: Name123 Port50354
+2021-10-21 13:51:11 INFO  ServerLogicClass:106 - User work with service: 123 Port50354
+2021-10-21 13:51:13 INFO  ServerLogicClass:126 - User requested mystery: 123 Port50354
+2021-10-21 13:51:14 INFO  ServerLogicClass:133 - User right answer: 123 Port50354
+2021-10-21 13:51:16 INFO  ServerLogicClass:126 - User requested mystery: 123 Port50354
+2021-10-21 13:51:18 INFO  ServerLogicClass:133 - User right answer: 123 Port50354
+2021-10-21 13:51:20 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50354
+2021-10-21 13:51:30 INFO  ServerLogicClass:28 - Connection findPort50357Entry in server
+2021-10-21 13:51:41 INFO  ServerLogicClass:98 - User entered to server: Name1 Port50357
+2021-10-21 13:51:41 INFO  ServerLogicClass:106 - User work with service: 1 Port50357
+2021-10-21 13:51:53 INFO  ServerLogicClass:157 - User add mystery: 1 Port50357
+2021-10-21 13:51:54 INFO  ServerLogicClass:126 - User requested mystery: 1 Port50357
+2021-10-21 13:51:56 INFO  ServerLogicClass:133 - User right answer: 1 Port50357
+2021-10-21 13:52:00 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50354
+2021-10-21 13:52:07 INFO  ServerLogicClass:121 - User requested online list: 123 Port50354
+2021-10-21 13:59:33 INFO  Server:54 - Server running
+2021-10-21 13:59:46 INFO  ServerLogicClass:28 - Connection findPort49239Entry in server
+2021-10-21 14:00:10 WARN  ServerLogicClass:89 - This user cut off connection
+2021-10-21 14:01:23 INFO  Server:54 - Server running
+2021-10-21 14:01:26 INFO  ServerLogicClass:28 - Connection findPort63617Entry in server
+2021-10-21 14:03:29 INFO  Server:54 - Server running
+2021-10-21 14:03:33 INFO  ServerLogicClass:28 - Connection findPort57429Entry in server
+2021-10-21 14:03:38 INFO  ServerLogicClass:98 - User entered to server: Name1 Port57429
+2021-10-21 14:03:38 INFO  ServerLogicClass:106 - User work with service: 1 Port57429
+2021-10-21 14:03:39 INFO  ServerLogicClass:167 - User exit: 1 Port57429
+2021-10-21 14:03:45 INFO  ServerLogicClass:28 - Connection findPort57433Entry in server
+2021-10-21 14:03:53 INFO  ServerLogicClass:98 - User entered to server: Name123 Port57433
+2021-10-21 14:03:53 INFO  ServerLogicClass:106 - User work with service: 123 Port57433
+2021-10-21 14:03:55 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port57433
+2021-10-21 14:03:57 INFO  ServerLogicClass:121 - User requested online list: 123 Port57433
+2021-10-21 14:03:59 INFO  ServerLogicClass:167 - User exit: 123 Port57433
+2021-10-21 14:32:27 INFO  Server:54 - Server running
+2021-10-21 14:32:45 INFO  ServerLogicClass:28 - Connection findPort58169Entry in server
+2021-10-21 14:32:48 INFO  ServerLogicClass:28 - Connection findPort58173Entry in server
+2021-10-21 14:32:54 INFO  ServerLogicClass:98 - User entered to server: Name123 Port58169
+2021-10-21 14:32:54 INFO  ServerLogicClass:106 - User work with service: 123 Port58169
+2021-10-21 14:32:55 INFO  ServerLogicClass:126 - User requested mystery: 123 Port58169
+2021-10-21 14:32:57 INFO  ServerLogicClass:133 - User right answer: 123 Port58169
+2021-10-21 14:33:08 INFO  ServerLogicClass:98 - User entered to server: Name1 Port58173
+2021-10-21 14:33:08 INFO  ServerLogicClass:106 - User work with service: 1 Port58173
+2021-10-21 14:33:11 INFO  ServerLogicClass:121 - User requested online list: 123 Port58169
+2021-10-21 14:34:46 INFO  ServerLogicClass:167 - User exit: 123 Port58169
+2021-10-21 14:34:49 INFO  ServerLogicClass:167 - User exit: 1 Port58173
+2021-10-23 16:54:32 INFO  Server:101 - Server running
+2021-10-23 16:54:40 INFO  ServerLogicClass:28 - Connection findPort63187Entry in server
+2021-10-23 16:55:34 INFO  Server:78 - Server running
+2021-10-23 16:55:37 INFO  ServerLogicClass:28 - Connection findPort63199Entry in server
+2021-10-23 16:55:54 INFO  ServerLogicClass:98 - User entered to server: Name123 Port63199
+2021-10-23 16:55:54 INFO  ServerLogicClass:106 - User work with service: 123 Port63199
+2021-10-23 16:55:56 INFO  ServerLogicClass:126 - User requested mystery: 123 Port63199
+2021-10-23 16:56:00 INFO  ServerLogicClass:137 - User wrong answer: 123 Port63199
+2021-10-23 16:56:02 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port63199
+2021-10-23 16:56:26 INFO  ServerLogicClass:157 - User add mystery: 123 Port63199
+2021-10-23 16:56:38 INFO  ServerLogicClass:28 - Connection findPort63205Entry in server
+2021-10-23 16:57:00 INFO  ServerLogicClass:98 - User entered to server: Name1 Port63205
+2021-10-23 16:57:00 INFO  ServerLogicClass:106 - User work with service: 1 Port63205
+2021-10-23 16:57:01 INFO  ServerLogicClass:126 - User requested mystery: 1 Port63205
+2021-10-23 16:57:03 INFO  ServerLogicClass:133 - User right answer: 1 Port63205
+2021-10-23 16:57:06 INFO  ServerLogicClass:126 - User requested mystery: 1 Port63205
+2021-10-23 16:57:08 INFO  ServerLogicClass:137 - User wrong answer: 1 Port63205
+2021-10-23 16:57:14 INFO  ServerLogicClass:157 - User add mystery: 1 Port63205
+2021-10-23 16:57:17 INFO  ServerLogicClass:126 - User requested mystery: 1 Port63205
+2021-10-23 16:57:18 INFO  ServerLogicClass:133 - User right answer: 1 Port63205
+2021-10-23 16:57:52 INFO  ServerLogicClass:167 - User exit: 1 Port63205
+2021-10-23 16:58:00 INFO  ServerLogicClass:126 - User requested mystery: 123 Port63199
+2021-10-23 16:58:00 INFO  ServerLogicClass:133 - User right answer: 123 Port63199
+2021-10-23 16:58:05 INFO  ServerLogicClass:121 - User requested online list: 123 Port63199
+2021-10-23 16:58:10 INFO  ServerLogicClass:126 - User requested mystery: 123 Port63199
+2021-10-24 16:39:40 INFO  Server:79 - Server running
+2021-10-24 16:41:28 FATAL Server:60 - SERVER UPAL
+2021-10-24 16:41:40 INFO  ServerLogicClass:28 - Connection findPort55411Entry in server
+2021-10-24 16:45:42 INFO  Server:79 - Server running
+2021-10-24 16:45:45 INFO  ServerLogicClass:28 - Connection findPort55436Entry in server
+2021-10-24 16:45:49 INFO  ServerLogicClass:98 - User entered to server: Name1 Port55436
+2021-10-24 16:45:49 INFO  ServerLogicClass:106 - User work with service: 1 Port55436
+2021-10-24 16:45:52 INFO  Server:79 - Server running
+2021-10-24 16:49:59 INFO  Server:79 - Server running
+2021-10-24 16:50:03 INFO  ServerLogicClass:28 - Connection findPort55463Entry in server
+2021-10-24 16:50:07 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55463
+2021-10-24 16:50:07 INFO  ServerLogicClass:106 - User work with service: 123 Port55463
+2021-10-24 16:50:08 INFO  ServerLogicClass:167 - User exit: 123 Port55463
+2021-10-24 16:50:14 INFO  ServerLogicClass:28 - Connection findPort55470Entry in server
+2021-10-24 16:50:26 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55470
+2021-10-24 16:50:26 INFO  ServerLogicClass:106 - User work with service: 123 Port55470
+2021-10-24 16:51:20 INFO  ServerLogicClass:157 - User add mystery: 123 Port55470
+2021-10-24 16:51:21 INFO  ServerLogicClass:167 - User exit: 123 Port55470
+2021-10-24 16:52:59 INFO  Server:79 - Server running
+2021-10-24 16:53:01 INFO  ServerLogicClass:28 - Connection findPort55486Entry in server
+2021-10-24 16:53:08 INFO  Server:79 - Server running
+2021-10-24 16:54:21 INFO  Server:79 - Server running
+2021-10-24 16:54:25 INFO  ServerLogicClass:28 - Connection findPort55500Entry in server
+2021-10-24 16:55:38 INFO  Server:79 - Server running
+2021-10-24 16:55:43 INFO  ServerLogicClass:28 - Connection findPort55511Entry in server
+2021-10-24 16:55:47 INFO  Server:79 - Server running
+2021-10-24 16:57:24 INFO  Server:79 - Server running
+2021-10-24 16:57:27 INFO  ServerLogicClass:28 - Connection findPort55536Entry in server
+2021-10-24 16:57:31 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55536
+2021-10-24 16:57:31 INFO  ServerLogicClass:106 - User work with service: 123 Port55536
+2021-10-24 16:57:32 INFO  ServerLogicClass:167 - User exit: 123 Port55536
+2021-10-24 16:57:37 INFO  ServerLogicClass:28 - Connection findPort55541Entry in server
+2021-10-24 16:57:40 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55541
+2021-10-24 16:57:40 INFO  ServerLogicClass:106 - User work with service: 123 Port55541
+2021-10-24 16:57:41 INFO  ServerLogicClass:167 - User exit: 123 Port55541
+2021-10-24 17:01:02 INFO  Server:79 - Server running
+2021-10-24 17:01:04 INFO  ServerLogicClass:28 - Connection findPort55573Entry in server
+2021-10-24 17:04:06 INFO  Server:79 - Server running
+2021-10-24 17:04:09 INFO  ServerLogicClass:28 - Connection findPort55601Entry in server
+2021-10-24 17:04:12 INFO  ServerLogicClass:28 - Connection findPort55605Entry in server
+2021-10-24 17:04:17 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55605
+2021-10-24 17:04:17 INFO  ServerLogicClass:106 - User work with service: 123 Port55605
+2021-10-24 17:04:18 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55605
+2021-10-24 17:04:19 INFO  ServerLogicClass:133 - User right answer: 123 Port55605
+2021-10-24 17:04:21 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55605
+2021-10-24 17:04:23 INFO  ServerLogicClass:133 - User right answer: 123 Port55605
+2021-10-24 17:04:24 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55605
+2021-10-24 17:04:30 INFO  ServerLogicClass:98 - User entered to server: Name1 Port55601
+2021-10-24 17:04:30 INFO  ServerLogicClass:106 - User work with service: 1 Port55601
+2021-10-24 17:04:32 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:04:41 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:04:43 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:04:44 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55601
+2021-10-24 17:04:46 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:04:47 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:04:49 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:04:51 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:04:52 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:04:55 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55601
+2021-10-24 17:04:58 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:00 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55601
+2021-10-24 17:05:02 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:04 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:05:05 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:07 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:05:08 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:09 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55601
+2021-10-24 17:05:12 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:16 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:05:18 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:21 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:05:22 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:24 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55601
+2021-10-24 17:05:27 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:29 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:05:29 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:33 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:05:34 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:37 INFO  ServerLogicClass:133 - User right answer: 1 Port55601
+2021-10-24 17:05:38 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55601
+2021-10-24 17:05:47 INFO  Server:79 - Server running
+2021-10-24 17:06:18 INFO  Server:79 - Server running
+2021-10-24 17:06:49 INFO  Server:79 - Server running
+2021-10-24 17:06:52 INFO  ServerLogicClass:28 - Connection findPort55628Entry in server
+2021-10-24 17:06:56 INFO  ServerLogicClass:98 - User entered to server: Name1 Port55628
+2021-10-24 17:06:56 INFO  ServerLogicClass:106 - User work with service: 1 Port55628
+2021-10-24 17:06:57 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:02 INFO  ServerLogicClass:133 - User right answer: 1 Port55628
+2021-10-24 17:07:04 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:05 INFO  ServerLogicClass:133 - User right answer: 1 Port55628
+2021-10-24 17:07:06 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:10 INFO  ServerLogicClass:133 - User right answer: 1 Port55628
+2021-10-24 17:07:11 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:14 INFO  ServerLogicClass:133 - User right answer: 1 Port55628
+2021-10-24 17:07:15 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:17 INFO  ServerLogicClass:133 - User right answer: 1 Port55628
+2021-10-24 17:07:19 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:22 INFO  ServerLogicClass:133 - User right answer: 1 Port55628
+2021-10-24 17:07:23 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:26 INFO  ServerLogicClass:133 - User right answer: 1 Port55628
+2021-10-24 17:07:27 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:30 INFO  ServerLogicClass:133 - User right answer: 1 Port55628
+2021-10-24 17:07:31 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:32 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55628
+2021-10-24 17:07:33 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55628
+2021-10-24 17:07:34 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55628
+2021-10-24 17:07:35 INFO  ServerLogicClass:143 - User requested statistics list: 1 Port55628
+2021-10-24 17:07:41 INFO  ServerLogicClass:121 - User requested online list: 1 Port55628
+2021-10-24 17:07:44 INFO  ServerLogicClass:28 - Connection findPort55633Entry in server
+2021-10-24 17:07:52 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55633
+2021-10-24 17:07:52 INFO  ServerLogicClass:106 - User work with service: 123 Port55633
+2021-10-24 17:07:53 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:07:56 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:07:58 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:00 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:08:01 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:04 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:08:05 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:10 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:08:11 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:13 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:08:14 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:18 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:08:19 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:22 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:08:22 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:26 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:08:27 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:39 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:08:40 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55633
+2021-10-24 17:08:42 INFO  ServerLogicClass:133 - User right answer: 123 Port55633
+2021-10-24 17:12:50 INFO  Server:79 - Server running
+2021-10-24 17:12:53 INFO  ServerLogicClass:28 - Connection findPort55657Entry in server
+2021-10-24 17:12:56 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55657
+2021-10-24 17:12:56 INFO  ServerLogicClass:106 - User work with service: 123 Port55657
+2021-10-24 17:13:03 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55657
+2021-10-24 17:13:09 INFO  ServerLogicClass:133 - User right answer: 123 Port55657
+2021-10-24 17:13:10 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55657
+2021-10-24 17:13:11 INFO  ServerLogicClass:137 - User wrong answer: 123 Port55657
+2021-10-24 17:13:17 INFO  ServerLogicClass:28 - Connection findPort55663Entry in server
+2021-10-24 17:13:20 INFO  ServerLogicClass:98 - User entered to server: Name1 Port55663
+2021-10-24 17:13:20 INFO  ServerLogicClass:106 - User work with service: 1 Port55663
+2021-10-24 17:13:21 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55663
+2021-10-24 17:13:22 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55663
+2021-10-24 17:13:38 INFO  Server:79 - Server running
+2021-10-24 17:13:42 INFO  ServerLogicClass:28 - Connection findPort55670Entry in server
+2021-10-24 17:13:45 INFO  ServerLogicClass:98 - User entered to server: Name1 Port55670
+2021-10-24 17:13:45 INFO  ServerLogicClass:106 - User work with service: 1 Port55670
+2021-10-24 17:13:47 INFO  ServerLogicClass:126 - User requested mystery: 1 Port55670
+2021-10-24 17:13:48 INFO  ServerLogicClass:137 - User wrong answer: 1 Port55670
+2021-10-24 17:13:51 INFO  ServerLogicClass:28 - Connection findPort55674Entry in server
+2021-10-24 17:14:03 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55674
+2021-10-24 17:14:03 INFO  ServerLogicClass:106 - User work with service: 123 Port55674
+2021-10-24 17:14:05 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55674
+2021-10-24 17:14:20 INFO  Server:79 - Server running
+2021-10-24 17:14:24 INFO  ServerLogicClass:28 - Connection findPort55683Entry in server
+2021-10-24 17:14:28 INFO  ServerLogicClass:98 - User entered to server: Name1 Port55683
+2021-10-24 17:14:28 INFO  ServerLogicClass:106 - User work with service: 1 Port55683
+2021-10-24 17:14:31 INFO  ServerLogicClass:121 - User requested online list: 1 Port55683
+2021-10-24 17:14:34 INFO  ServerLogicClass:28 - Connection findPort55687Entry in server
+2021-10-24 17:14:41 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55687
+2021-10-24 17:14:41 INFO  ServerLogicClass:106 - User work with service: 123 Port55687
+2021-10-24 17:14:43 INFO  ServerLogicClass:121 - User requested online list: 123 Port55687
+2021-10-24 17:14:48 INFO  ServerLogicClass:121 - User requested online list: 1 Port55683
+2021-10-24 17:15:57 INFO  Server:79 - Server running
+2021-10-24 17:16:00 INFO  ServerLogicClass:28 - Connection findPort55705Entry in server
+2021-10-24 17:16:03 INFO  ServerLogicClass:98 - User entered to server: Name123 Port55705
+2021-10-24 17:16:03 INFO  ServerLogicClass:106 - User work with service: 123 Port55705
+2021-10-24 17:16:08 INFO  ServerLogicClass:126 - User requested mystery: 123 Port55705
+2021-10-24 17:16:08 INFO  ServerLogicClass:137 - User wrong answer: 123 Port55705
+2021-10-24 17:16:11 INFO  ServerLogicClass:28 - Connection findPort55711Entry in server
+2021-10-26 20:37:25 INFO  Server:79 - Server running
+2021-10-26 20:37:52 INFO  ServerLogicClass:28 - Connection findPort50096Entry in server
+2021-10-26 20:37:57 WARN  ServerLogicClass:89 - This user cut off connection
+2021-10-26 20:38:21 INFO  ServerLogicClass:28 - Connection findPort50111Entry in server
+2021-10-26 20:38:29 INFO  Server:79 - Server running
+2021-10-26 20:38:35 INFO  ServerLogicClass:28 - Connection find  Port50128  Entry in server
+2021-10-26 20:38:40 INFO  ServerLogicClass:98 - User entered to server: Name123 Port50128
+2021-10-26 20:38:40 INFO  ServerLogicClass:106 - User work with service: 123 Port50128
+2021-10-26 20:38:41 INFO  ServerLogicClass:126 - User requested mystery: 123 Port50128
+2021-10-26 20:38:43 INFO  ServerLogicClass:137 - User wrong answer: 123 Port50128
+2021-10-26 20:38:45 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50128
+2021-10-26 20:38:54 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50128
+2021-10-26 20:38:56 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50128
+2021-10-26 20:38:57 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50128
+2021-10-26 20:38:58 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50128
+2021-10-26 20:39:00 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50128
+2021-10-26 20:39:04 INFO  ServerLogicClass:126 - User requested mystery: 123 Port50128
+2021-10-26 20:39:05 INFO  ServerLogicClass:137 - User wrong answer: 123 Port50128
+2021-10-26 20:39:08 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50128
+2021-10-26 20:39:12 INFO  ServerLogicClass:121 - User requested online list: 123 Port50128
+2021-10-26 20:39:23 INFO  ServerLogicClass:167 - User exit: 123 Port50128
+2021-10-26 20:40:29 INFO  ServerLogicClass:28 - Connection find  Port50206  Entry in server
+2021-10-26 20:40:41 INFO  ServerLogicClass:98 - User entered to server: Namedeskor Port50206
+2021-10-26 20:40:41 INFO  ServerLogicClass:106 - User work with service: deskor Port50206
+2021-10-26 20:41:06 INFO  ServerLogicClass:167 - User exit: deskor Port50206
+2021-10-26 20:41:42 INFO  Server:79 - Server running
+2021-10-26 20:42:06 INFO  Server:79 - Server running
+2021-10-26 20:42:08 INFO  ServerLogicClass:28 - Connection find  Port50269  Entry in server
+2021-10-26 20:42:38 INFO  ServerLogicClass:98 - User entered to server: Named Port50269
+2021-10-26 20:42:38 INFO  ServerLogicClass:106 - User work with service: d Port50269
+2021-10-26 20:42:41 INFO  ServerLogicClass:167 - User exit: d Port50269
+2021-10-26 20:43:30 INFO  ServerLogicClass:28 - Connection find  Port50307  Entry in server
+2021-10-26 20:43:33 INFO  ServerLogicClass:98 - User entered to server: Name123 Port50307
+2021-10-26 20:43:33 INFO  ServerLogicClass:106 - User work with service: 123 Port50307
+2021-10-26 20:43:38 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port50307
+2021-10-26 20:43:42 INFO  ServerLogicClass:126 - User requested mystery: 123 Port50307
+2021-10-26 20:43:43 INFO  ServerLogicClass:137 - User wrong answer: 123 Port50307
+2021-10-27 08:12:56 INFO  Server:79 - Server running
+2021-10-27 08:13:03 INFO  ServerLogicClass:28 - Connection find  Port53956  Entry in server
+2021-10-27 08:13:07 INFO  ServerLogicClass:28 - Connection find  Port53960  Entry in server
+2021-10-27 08:13:21 INFO  ServerLogicClass:98 - User entered to server: Name1 Port53956
+2021-10-27 08:13:21 INFO  ServerLogicClass:106 - User work with service: 1 Port53956
+2021-10-27 08:13:28 INFO  ServerLogicClass:98 - User entered to server: Name123 Port53960
+2021-10-27 08:13:28 INFO  ServerLogicClass:106 - User work with service: 123 Port53960
+2021-10-27 08:13:31 INFO  ServerLogicClass:121 - User requested online list: 123 Port53960
+2021-10-27 08:13:37 INFO  ServerLogicClass:143 - User requested statistics list: 123 Port53960
+2021-10-27 08:13:44 INFO  ServerLogicClass:126 - User requested mystery: 123 Port53960
+2021-10-27 08:13:55 INFO  ServerLogicClass:137 - User wrong answer: 123 Port53960
+2021-10-27 08:14:04 INFO  ServerLogicClass:157 - User add mystery: 123 Port53960
+2021-10-27 08:14:07 INFO  ServerLogicClass:126 - User requested mystery: 123 Port53960
+2021-10-27 08:14:08 INFO  ServerLogicClass:133 - User right answer: 123 Port53960
+2021-10-27 08:14:08 INFO  ServerLogicClass:126 - User requested mystery: 123 Port53960
+2021-10-27 08:14:13 INFO  ServerLogicClass:126 - User requested mystery: 1 Port53956
+2021-10-27 08:14:42 WARN  ServerLogicClass:174 - This user cut off connection: Name 1 Port53956
+2021-10-27 08:14:43 INFO  ServerLogicClass:28 - Connection find  Port53964  Entry in server
+2021-10-27 08:14:47 INFO  ServerLogicClass:98 - User entered to server: Name1 Port53964
+2021-10-27 08:14:47 INFO  ServerLogicClass:106 - User work with service: 1 Port53964
+2021-10-27 08:14:50 INFO  ServerLogicClass:126 - User requested mystery: 1 Port53964
+2021-10-27 08:14:52 INFO  ServerLogicClass:133 - User right answer: 1 Port53964
+2021-10-27 08:15:02 INFO  ServerLogicClass:121 - User requested online list: 1 Port53964
+2021-10-27 08:15:07 INFO  ServerLogicClass:143 - User requested statistics list: 1 Port53964
+2021-10-27 08:16:42 INFO  Server:79 - Server running
+2021-10-27 08:16:47 INFO  ServerLogicClass:28 - Connection find  Port53979  Entry in server
+2021-10-27 08:16:50 INFO  ServerLogicClass:98 - User entered to server: Name1 Port53979
+2021-10-27 08:16:50 INFO  ServerLogicClass:106 - User work with service: 1 Port53979
+2021-10-27 08:16:51 INFO  ServerLogicClass:126 - User requested mystery: 1 Port53979
+2021-10-27 08:16:53 INFO  ServerLogicClass:137 - User wrong answer: 1 Port53979
+2021-10-27 08:16:54 INFO  ServerLogicClass:126 - User requested mystery: 1 Port53979
+2021-10-27 08:16:55 INFO  ServerLogicClass:137 - User wrong answer: 1 Port53979
+2021-10-27 08:16:58 INFO  ServerLogicClass:28 - Connection find  Port53984  Entry in server
+2021-10-27 08:17:04 INFO  ServerLogicClass:98 - User entered to server: Name123 Port53984
+2021-10-27 08:17:04 INFO  ServerLogicClass:106 - User work with service: 123 Port53984
+2021-10-27 08:17:06 INFO  ServerLogicClass:126 - User requested mystery: 123 Port53984
+2021-10-27 08:21:05 INFO  Server:79 - Server running
+2021-10-27 08:21:08 INFO  ServerLogicClass:28 - Connection find  Port54000  Entry in server
+2021-10-27 08:21:11 INFO  ServerLogicClass:98 - User entered to server: Name1 Port54000
+2021-10-27 08:21:11 INFO  ServerLogicClass:106 - User work with service: 1 Port54000
+2021-10-27 08:21:14 WARN  ServerLogicClass:174 - This user cut off connection: Name 1 Port54000
+2021-10-27 08:21:33 INFO  ServerLogicClass:28 - Connection find  Port54006  Entry in server
+2021-11-27 11:53:44 INFO  Server:80 - Server running
+2021-11-27 11:53:56 INFO  ServerLogicClass:28 - Connection find  Port49804  Entry in server
+2021-11-27 11:54:07 INFO  ServerLogicClass:98 - User entered to server: Name1 Port49804
+2021-11-27 11:54:07 INFO  ServerLogicClass:106 - User work with service: 1 Port49804
+2021-11-27 11:54:08 INFO  ServerLogicClass:126 - User requested mystery: 1 Port49804
+2021-11-27 11:54:12 INFO  ServerLogicClass:137 - User wrong answer: 1 Port49804
+2021-11-27 11:54:15 INFO  ServerLogicClass:143 - User requested statistics list: 1 Port49804
+2021-11-27 11:54:55 INFO  ServerLogicClass:28 - Connection find  Port49816  Entry in server
+2021-11-27 11:55:04 WARN  ServerLogicClass:89 - This user cut off connection
+2021-11-27 11:55:09 INFO  ServerLogicClass:167 - User exit: 1 Port49804
+2021-11-27 11:55:15 INFO  ServerLogicClass:28 - Connection find  Port49820  Entry in server
+2021-11-27 11:55:17 WARN  ServerLogicClass:89 - This user cut off connection
